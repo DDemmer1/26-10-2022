@@ -34,8 +34,9 @@ public class Application {
 	}
 	
 	
-	static double durchZwei(int zahl) {
-		return zahl /2D;
+	static double durchZwei(double zahl) {
+		
+		return zahl / 2;
 	}
 	
 	
