@@ -17,7 +17,7 @@ WS22 - Methoden und Variablen 2
 Hier noch ein paar nützliche 📃Artikel, 🖊️Threads und 🎥Videos
 
 - [ 🎥 GitHub Projekte in Eclipse importieren](https://drive.google.com/file/d/1IpwHADmwViEGQ7Pf4BgybUYpz7WBoMe5/view?usp=sharing)
-
+- [ 📃 Java Datentypen](https://javabeginners.de/Grundlagen/Datentypen/Primitive_Datentypen.php)
 
 
 
