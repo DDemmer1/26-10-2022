@@ -6,7 +6,7 @@ WS22 - Methoden und Variablen 2
 
 - Importieren sie dieses Repository in ```Eclipse```
 - Erstellen sie die folgenenden drei Methoden in der ```Application``` Klasse 
-- Überlegen sie sich welche Datentypen sich als Argumente und Rückgabewerte für die jeweilige Methode eignen, oder ob ein Rückgabewert überhaupt sinnvoll ist
+- Überlegen sie sich welche **Datentypen** sich als **Argumente** und **Rückgabewerte** für die jeweilige Methode eignen, oder ob ein Rückgabewert überhaupt sinnvoll ist
   1. Die Methode hat **zwei Zahlen** als Argumente und soll überprüfen ob diese **Zahlen gleich** sind
   2. Die Methode hat **eine Zahl** als Argumente und soll diese **durch 2 Teilen**
   3. Die Methode nimmt **eine Zeichenkette** als Argument und soll diese **dreimal in der Konsole** ausgeben
